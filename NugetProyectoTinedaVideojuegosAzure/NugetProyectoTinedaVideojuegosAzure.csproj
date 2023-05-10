@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>NugetProyectoTinedaVideojuegosAzure</Title>
+    <Authors>Raul Garcia</Authors>
+    <PackageIcon>BetGaming.PNG</PackageIcon>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="E:\BetGaming.PNG">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
